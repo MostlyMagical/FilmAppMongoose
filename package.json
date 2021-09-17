@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/MostlyMagical/FilmAppMongoose/issues"
   },
-  "homepage": "https://github.com/MostlyMagical/FilmAppMongoose#readme"
+  "homepage": "https://github.com/MostlyMagical/FilmAppMongoose#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.5"
+  }
 }
